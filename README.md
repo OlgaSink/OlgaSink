@@ -1,16 +1,14 @@
-### Hi there 👋
+My name is **Olga**
 
-<!--
-**OlgaSink/OlgaSink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of RS School
 
-Here are some ideas to get you started:
+****
+### Contacts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Location: Minsk, Belarus
+* Phone: +375 25 609-02-32
+* Email: olgasienkiewicz17@gmail.com
+* GitHub: [OlgaSink](https://github.com/OlgaSink)
+* Telegram: [@Olgasienkiewicz](https://t.me/Olgasienkiewicz)
+* Discord: [OlgaSink#3667]
+
